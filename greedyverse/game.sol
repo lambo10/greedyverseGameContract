@@ -8,7 +8,7 @@ import "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol";
 contract greedyverseGame is ERC1155, Ownable{
     using SafeMath for uint256;
     
-    uint256[30] public healthCost = [250,700,0,0,200,380,0,0,200,380,450,1150,2020,800,1493,55,30,1000,25,50,2600,1900,1500,370,50,150,30,10,100,0];
+    uint256[30] public healthCost = [1000, 2800, 0, 0, 800, 1520, 0, 0, 800, 1520, 1800, 4600, 8080, 3200, 5972, 220, 120, 4000, 100, 200, 10400, 7600, 6000, 1480, 200, 600, 120, 40, 400, 0];
      
     address public tokenContract_add = 0xb546fC62DcB523C4f5F1581021Bf27A8019b5516;
     IERC20 public token = IERC20(tokenContract_add);

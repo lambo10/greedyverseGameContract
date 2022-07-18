@@ -624,10 +624,10 @@
 			]
 		},
 		"greedyverse/game.sol": {
-			"keccak256": "0x4d1aec1528a71ec4b57f06ed0ebf74f101716714ebb48d4dc08744b0b255ef63",
+			"keccak256": "0x0ce1cfbc05a08d14539ee5912b0b399528a4e2557f30be4a6c49f538fc445953",
 			"urls": [
-				"bzz-raw://efadce88e0efad86d73299617d42ab0afff0488a81197cceb04cf95bba3a75d6",
-				"dweb:/ipfs/QmNMSRBq6gyqhYPSfioqkwFSxrXB85VyYGKo8E6WvA52GH"
+				"bzz-raw://4c20762475c459bade911ad6a976fd061dbf1172487dad402fa993aff7f30a42",
+				"dweb:/ipfs/Qmf7pbuwcLV7xx1GP6WXBr5JgoN7KhYPfTQexhvnXtJAcm"
 			]
 		}
 	},
