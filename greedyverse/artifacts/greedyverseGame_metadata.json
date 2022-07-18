@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.7+commit.e28d00a7"
+		"version": "0.8.15+commit.e14f2714"
 	},
 	"language": "Solidity",
 	"output": {
@@ -624,10 +624,10 @@
 			]
 		},
 		"greedyverse/game.sol": {
-			"keccak256": "0x7e18d4c7bc42fe6e2903288c769a75e7c4d36e32ad6ee594e9ecc9eb93c8a263",
+			"keccak256": "0x4d1aec1528a71ec4b57f06ed0ebf74f101716714ebb48d4dc08744b0b255ef63",
 			"urls": [
-				"bzz-raw://9e577372677bf6cce290026853c2cbfd39c3cc0e012ebbd54bef6553d513a8a7",
-				"dweb:/ipfs/QmbAF2grhba88m4Br3zjSRx2ds1dCh7sQkKpjPd6nMAEJb"
+				"bzz-raw://efadce88e0efad86d73299617d42ab0afff0488a81197cceb04cf95bba3a75d6",
+				"dweb:/ipfs/QmNMSRBq6gyqhYPSfioqkwFSxrXB85VyYGKo8E6WvA52GH"
 			]
 		}
 	},
